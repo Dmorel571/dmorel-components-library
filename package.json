@@ -1,6 +1,6 @@
 {
   "name": "dmorel-components-library",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "private": false,
   "dependencies": {
     "@ant-design/icons": "^4.7.0",
